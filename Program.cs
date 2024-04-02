@@ -5,3 +5,5 @@ Console.WriteLine("Hello");
 Console.WriteLine("반갑습니다");
 
 Console.WriteLine("Welcome to Github");
+
+Console.WriteLine("Merge in Github");
